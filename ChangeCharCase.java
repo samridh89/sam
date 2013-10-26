@@ -26,6 +26,7 @@ public class ChangeCharCase {
 		char x=(char)i;
 		System.out.println(x);
 		return x;
+		System.out.println(x);
 	}
 	
 }
