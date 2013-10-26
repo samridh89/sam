@@ -8,6 +8,7 @@ public class ChangeCharCase {
 		ChangeCharCase testInstance = new ChangeCharCase();
 		char result = testInstance.changeCase(testcase1);
 		System.out.println(result);
+	//hi..
 	}
 	
 	//write your code here
